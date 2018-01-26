@@ -1,4 +1,4 @@
-/*
+﻿/*
 
 Conquer Template
 
@@ -113,7 +113,8 @@ z-index: 999;
 .blue-text { color: #1686C1; }
 .gray-text { color: #1686C1; }
 .green-btn { background: #178A27; }
-.green-btn:hover { background: #449D44; }
+.green-btn:hover { background: #449D44;}
+
 .blue-btn { background: #1686C1; }
 .blue-btn:hover { background: #31B0D5; }
 .red-btn { background: #852406; }
@@ -139,8 +140,8 @@ z-index: 999;
     padding: 10px 30px;
     text-decoration: none;
     text-transform: capitalize;
-    -webkit-transition: all 0.3s ease;
-            transition: all 0.3s ease;
+    -webkit-transition: all 0.8s ease;
+            transition: all 0.8s ease;
 }
 .feature-content-link:hover, .feature-content-link:link, .feature-content-link:visited  {
   color: white;
